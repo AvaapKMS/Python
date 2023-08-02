@@ -1,0 +1,4 @@
+Name: Danielle Harlow       
+Email: danielle.harlow@avaap.com
+
+This is a python-based spell checker.
